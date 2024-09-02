@@ -13,7 +13,7 @@
       { "id": 5, "title": "Ladies Bag", "category": "Bag", "price":"4500","color":"Purple","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFVCkm9MFzF59Bo6N8e_7vEpwNqGf5oJZKQ&s"  },
       { "id": 6, "title": "Silver Watch", "category": "Watch", "price":"5400","color":"Silver","img":"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?cs=srgb&dl=pexels-ferarcosn-190819.jpg&fm=jpg" },
       { "id": 7, "title": "Outdoor Shoes", "category": "Shoes", "price":"2800","color":"Blue","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ejtPiCwmSWyXX6weSKMGT28aQIb5MyDatNPLkGhKopeed913PrNgnctuR6Kr2GadOB0&usqp=CAU"  },
-      { "id": 8, "title": "Best Bag", "category": "Bag", "price":"2100","color":"Blue" ,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1QpzUqtYfz6dzKY5RhP23mquUi2WOrMgEw&s" },
+      { "id": 8, "title": "Best Bag", "category": "Bag", "price":"2150","color":"Blue" ,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1QpzUqtYfz6dzKY5RhP23mquUi2WOrMgEw&s" },
       { "id": 9, "title": "Best Collection", "category": "Watch", "price":"5100","color":"Black","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHKQVHIIDavm-7QaHOn0BxGUM1NLiCWwrM6w&s" },
       { "id": 10, "title": "Men Shoes", "category": "Shoes", "price":"2400","color":"Black" ,"img":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/99486859-0ff3-46b4-949b-2d16af2ad421/custom-nike-dunk-high-by-you-shoes.png" },
       { "id": 11, "title": "Leather Bag", "category": "Bag", "price":"6000","color":"Brown" ,"img":"https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?cs=srgb&dl=pexels-geyonk-1152077.jpg&fm=jpg" },
