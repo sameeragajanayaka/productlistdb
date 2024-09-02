@@ -1,15 +1,31 @@
-      { id: 1, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-      { id: 2, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-      { id: 3, title: "Product 2", category: "Watch", price:"5000",color:"black"},
-      { id: 4, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-      { id: 5, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-      { id: 6, title: "Product 2", category: "Watch", price:"5000",color:"black"},
-      { id: 7, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-      { id: 8, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-      { id: 9, title: "Product 2", category: "Watch", price:"5000",color:"black"},
-      { id: 10, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-      { id: 11, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-      { id: 12, title: "Product 2", category: "Watch", price:"5000",color:"black"},
-      { id: 13, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-      { id: 14, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-      { id: 15, title: "Product 2", category: "Watch", price:"5000",color:"black"}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
