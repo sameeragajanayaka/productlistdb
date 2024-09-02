@@ -1,15 +1,28 @@
-{ id: 1, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-{ id: 2, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-{ id: 3, title: "Product 2", category: "Watch", price:"5000",color:"black"},
-{ id: 4, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-{ id: 5, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-{ id: 6, title: "Product 2", category: "Watch", price:"5000",color:"black"},
-{ id: 7, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-{ id: 8, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-{ id: 9, title: "Product 2", category: "Watch", price:"5000",color:"black"},
-{ id: 10, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-{ id: 11, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-{ id: 12, title: "Product 2", category: "Watch", price:"5000",color:"black"},
-{ id: 13, title: "Product 1", category: "Shoes", price:"2000",color:"blue" },
-{ id: 14, title: "Product 2", category: "Bag", price:"3000",color:"red" },
-{ id: 15, title: "Product 2", category: "Watch", price:"5000",color:"black"}
+{
+  "comments": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    }
+  ],
+  "posts": [
+    { "id": 1, "title": "Running Shoes", "category": "Shoes", "price":"7000","color":"White","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrR_VvLy3HYbsqzU7IKn8M5CQhguNszaK1pQ&s" },
+      { "id": 2, "title": "Jute Bag", "category": "Bag", "price":"3800","color":"White" ,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnN1dxOpln-R05FYxSmDzVqU1jDTn5QTy0lw&s" },
+      { "id": 3, "title": "Brown Men Watch", "category": "Watch", "price":"5500","color":"Brown","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM_g6C38xZmqjzup2LjHgGDiHyC82Sgb5NCQ&s" },
+      { "id": 4, "title": "Best Shoes Collection", "category": "Shoes", "price":"3600","color":"White" ,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wsx_w5qb1u71Q25DnFu_PK-0RCBGp1nBxQ&s" },
+      { "id": 5, "title": "Ladies Bag", "category": "Bag", "price":"4500","color":"Purple","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFVCkm9MFzF59Bo6N8e_7vEpwNqGf5oJZKQ&s"  },
+      { "id": 6, "title": "Silver Watch", "category": "Watch", "price":"5400","color":"Silver","img":"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?cs=srgb&dl=pexels-ferarcosn-190819.jpg&fm=jpg" },
+      { "id": 7, "title": "Outdoor Shoes", "category": "Shoes", "price":"2800","color":"Blue","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ejtPiCwmSWyXX6weSKMGT28aQIb5MyDatNPLkGhKopeed913PrNgnctuR6Kr2GadOB0&usqp=CAU"  },
+      { "id": 8, "title": "Best Bag", "category": "Bag", "price":"2100","color":"Blue" ,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1QpzUqtYfz6dzKY5RhP23mquUi2WOrMgEw&s" },
+      { "id": 9, "title": "Best Collection", "category": "Watch", "price":"5100","color":"Black","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHKQVHIIDavm-7QaHOn0BxGUM1NLiCWwrM6w&s" },
+      { "id": 10, "title": "Men Shoes", "category": "Shoes", "price":"2400","color":"Black" ,"img":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/99486859-0ff3-46b4-949b-2d16af2ad421/custom-nike-dunk-high-by-you-shoes.png" },
+      { "id": 11, "title": "Leather Bag", "category": "Bag", "price":"6000","color":"Brown" ,"img":"https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?cs=srgb&dl=pexels-geyonk-1152077.jpg&fm=jpg" },
+      { "id": 12, "title": "Silver Watch", "category": "Watch", "price":"5800","color":"Silver","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0g0p676-vgHmGZanBPsH5N9Nm8TuNx9h9g&s" },
+      { "id": 13, "title": "Red Tape Men Perforated Slip", "category": "Shoes", "price":"3600","color":"White" ,"img":"https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/23869882/2023/7/4/bf58b931-1da6-467b-a3e5-133d1118dbcd1688469529787RedTapeMenWhiteWovenDesignSneakers1.jpg" },
+      { "id": 14, "title": "Cute Red Bag", "category": "Bag", "price":"3200","color":"Red","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDbHq4krPZJHJiELcuXepSJBmEmY3jEVaHQ&s"  },
+      { "id": 15, "title": "Black Men Watch", "category": "Watch", "price":"8800","color":"Black","img":"https://www.shutterstock.com/image-photo/beautiful-luxury-mens-gold-watch-600nw-2311553491.jpg" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
